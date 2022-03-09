@@ -1,0 +1,17 @@
+---
+title: "Demo"
+author: "Lakshmi"
+date: '2022-03-09'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+This is my *first attempt* at creating a **R Markdown** file in R. Hope everyone likes it.
+
+```{r print}
+print("Hello World")
+```
